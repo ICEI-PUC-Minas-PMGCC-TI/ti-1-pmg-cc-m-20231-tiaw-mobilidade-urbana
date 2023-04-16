@@ -1,46 +1,272 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
-
-......  COLOQUE AQUI O SEU TEXTO ......
+BIKETRRACKEr
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
+Ciências da Computação
 ## Participantes
-
-......  COLOQUE AQUI O SEU TEXTO ......
+Leonardo Amaral Passos Figueiredo
+Mateus Malafaia
+Matheus Ramos Carvalhais
+Samuel Ramos Yamada
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
-
+> -  Leonardo Amaral Passos Figueiredo
+> - Mateus Malafaia
+> - Matheus Ramos Carvalhais
+> - Samuel Ramos Yamada
 # Estrutura do Documento
 
-- [Informações do Projeto](#informações-do-projeto)
-  - [Participantes](#participantes)
-- [Estrutura do Documento](#estrutura-do-documento)
-- [Introdução](#introdução)
-  - [Problema](#problema)
-  - [Objetivos](#objetivos)
-  - [Justificativa](#justificativa)
-  - [Público-Alvo](#público-alvo)
-- [Especificações do Projeto](#especificações-do-projeto)
-  - [Personas, Empatia e Proposta de Valor](#personas-empatia-e-proposta-de-valor)
-  - [Histórias de Usuários](#histórias-de-usuários)
-  - [Requisitos](#requisitos)
-    - [Requisitos Funcionais](#requisitos-funcionais)
-    - [Requisitos não Funcionais](#requisitos-não-funcionais)
-  - [Restrições](#restrições)
-- [Projeto de Interface](#projeto-de-interface)
-  - [User Flow](#user-flow)
-  - [Wireframes](#wireframes)
-- [Metodologia](#metodologia)
-  - [Divisão de Papéis](#divisão-de-papéis)
-  - [Ferramentas](#ferramentas)
-  - [Controle de Versão](#controle-de-versão)
+- [Informações do Projeto]
+Introdução
+Sabemos que atualmente existem mais de 100 milhões de automóveis registrados no país, e esse número só aumenta com o passar dos anos. Nas cidades grandes, esse crescimento é bastante negativo, pois aumenta o número de veículos circulando nas ruas, o que agrava ainda mais o problema do trânsito e da poluição. Diante disso, viemos com uma proposta já em desenvolvimento para solucionar esse problema: o BikeTracker!
+Problema
+Os problemas que enfrentaremos são o fluxo de veículos automotores nas ruas e a poluição gerada por eles. Esses são grandes desafios enfrentados pelas grandes cidades, onde o tráfego de carros é intenso e a poluição do ar é elevada. Ao reduzir esses problemas, pretendemos melhorar a qualidade de vida de muitas pessoas.
+Objetivos
+O nosso grupo tem o objetivo de diminuir o fluxo de veículos automotores nas ruas e a poluição em seu processo. Buscamos também solucionar alguns problemas dos ciclistas a respeito de rotas perigosas, sem ciclovias, ruas com buracos que podem causar acidentes, dificuldade de encontrar locais próximos para alugar bicicletas, locais de vendas de bicicletas e acessórios e também sinalizar a evolução do ciclista ao longo de suas corridas. 
+Justificativa:
+Temos vários motivos para incentivar as pessoas a utilizarem nosso aplicativo. Entre eles, os mais importantes são: melhorar a qualidade de vida ao tornar a pessoa mais saudável pela prática de atividade física; a economia com combustível e tempo, uma vez que ao utilizar uma bicicleta, a pessoa consegue se deslocar pelo trânsito com mais facilidade.
+
+
+
+Público alvo
+
+Nosso foco são as pessoas cansadas de passar mais de uma hora no trânsito ou que não aguentam mais respirar o ar poluído da cidade. Buscamos aqueles interessados em mudar seu estilo de vida e encontrar alternativas mais saudáveis e sustentáveis.
+O bike tracker aceita pessoas de 13 anos(com autorização do responsável), já que, apesar de crianças menores já conseguirem se locomover, as mesmas podem não estar preparadas para as rotas propostas pelo app, já que as vezes é inevitável passar por ruas sem ciclovias.
+
+
+
+
+
+
+
+
+
+Especificação do Projeto
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feito pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
+Personas
+As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
+
+
+Cristiano Portfolio Revista
+Idade: 24
+Ocupação:Engenheiro
+Aplicativos:
+Tinder
+Facebook 
+linkedin
+Motivações
+Se profissionalizar na area de trabalho
+
+
+
+Frustrações
+Não se profissionalizou .
+
+
+
+
+Hobbies, História
+Andar de bicicleta
+
+
+
+
+
+
+
+Taína Rodriguez
+Idade: 18
+Ocupação: Estudante
+Aplicativos:
+Facebook
+Linkedin
+Onlyfans
+Motivações
+Se formar na universidade
+Levar adiante sua dança
+Cantar para mais de mil pessoas
+
+
+Frustrações
+Não ter se formado
+Não arranjou um emprego
+
+
+Hobbies
+Cantar
+Dançar
+
+
+
+
+
+Fernando Santos
+Idade: 33
+Ocupação:. Médico
+Aplicativos:
+Facebook
+Instagram
+Discord
+Motivações
+Se casar e ter filhos
+
+
+
+
+Frustrações
+Ter um relacionamento instável devido ao trabalho intensivo. 
+
+
+Hobbies
+Ver filmes
+
+
+
+
+
+Histórias de usuários
+
+Eu como …  [PERSONA]
+… quero/desejo … 
+[O QUE]
+… para ....
+[POR QUE]
+Cristiano Portfolio
+Desejo que melhorem o trajeto para nós que andamos de bicicleta
+Para chegarmos mais rápido e mais seguro em nossos trabalhos
+Cristiano Portfolio
+Melhorar o péssimo trânsito de Belo Horizonte
+Incentivando o uso do transporte coletivo e do uso de bicicletas para a mobilidade urbana efetiva
+Taína Rodriguez
+No caminho para minha universidade não tenha tantos veículos
+Para sempre chegar cedo melhorando assim o rendimento escolar
+Fernando Santos
+Tenha menos gente esperando por leitos médicos
+Para melhorar minha área de trabalho e saúde pública
+Fernando Santos
+na rota casa-trabalho o trânsito melhore
+Conseguindo chegar mais cedo e realizar mais procedimentos desafogando a fila médica
+
+
+
+Requisitos do Projeto
+
+
+Requisitos Funcionais
+
+ID
+Descrição
+Prioridade
+RF-01
+o site deve apresentar rotas viáveis para ciclistas inexperientes.
+Alta
+RF-02
+O site deve ter como objetivo secundário , incentivar quem deseja ser ciclistas .
+Média
+RF-03
+o site deve oferecer vendas de acessórios para bicicletas
+Média
+RF-04
+o site deve monitorar a atividade física do usuário
+Média
+
+
+Requisitos não funcionais
+
+ID
+Descrição
+Prioridade
+RNF-01
+O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku); 
+Alta
+RNF-02
+O site deverá ser responsivo permitindo a visualização em um celular de forma adequada
+Alta
+RNF-03
+O site deve ter bom nível de contraste entre os elementos da tela em conformidade 
+Média
+RNF-04
+O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)
+Alta
+
+
+
+
+
+ Metodologia
+Divisão de papeis
+
+
+NOME
+FUNÇÃO EXERCIDA
+Samuel Ramos yamada
+ Orientação do projeto no geral e desenvolvimento de relatório técnico - documentação do projeto .  
+Leonardo Amaral 
+Repositor de dados no GitHub , suporte técnico orientado por samuel ramos .
+Matheus Ramos
+desenvolvimento de relatório técnico   .
+Mateus 
+Desenvolvedor de slides .
+
+
+Relações de ambiente de trabalho
+
+Ambiente
+Plataforma
+Link de Acesso
+Repositório de código fonte
+
+
+GitHub
+https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20231-tiaw-mobilidade-urbana
+Documentos do projeto
+Google Drive
+https://docs.google.com/document/d/1VB6Wz_3sBv4wwaF-74fd9O3NE6-5_Jnt-jG7Si-pPqE/edit?usp=sharing
+Wireframes
+FIGMA
+https://www.figma.com/file/PQz4hw4GRn8Gj2po5rUchp/Untitled?node-id=0%3A1&t=VaVVRsUPB6nnC7qS-1
+
+
+
+Quadro de controle  Kanban 
+
+
+A fazer 
+Em andamento
+ Feito
+. os códigos
+. deixar o site funcional
+. moldar para um app
+ . Wireframe
+ .  repositor códigos no github
+ . Relatório técnico 
+. Slides de apresentação 
+. Processo design thinking
+. organizar equipe
+
+
+
+
+
+
+
+
+
+
+
+
+Wireframes
+https://www.figma.com/file/PQz4hw4GRn8Gj2po5rUchp/Untitled?node-id=0%3A1&t=znY5Vj1b1TpajVrI-1
+
+
+
+
+
+
 - [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
