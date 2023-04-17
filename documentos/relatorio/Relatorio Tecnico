@@ -231,8 +231,6 @@ https://www.figma.com/file/PQz4hw4GRn8Gj2po5rUchp/Untitled?node-id=0%3A1&t=VaVVR
 
 
 
-Quadro de controle  Kanban 
-
 
 A fazer 
 Em andamento
@@ -247,19 +245,109 @@ Em andamento
 . Processo design thinking
 . organizar equipe
 
+Relações de ambiente de trabalho
+
+Ambiente
+Plataforma
+Link de Acesso
+Repositório de código fonte
+
+
+GitHub
+https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20231-tiaw-mobilidade-urbana
+Documentos do projeto
+Google Drive
+https://docs.google.com/document/d/1VB6Wz_3sBv4wwaF-74fd9O3NE6-5_Jnt-jG7Si-pPqE/edit?usp=sharing
+Wireframes
+FIGMA
+https://www.figma.com/file/PQz4hw4GRn8Gj2po5rUchp/Untitled?node-id=0%3A1&t=VaVVRsUPB6nnC7qS-1
+Gerenciamento de projeto
+Trello
+https://trello.com/invite/b/9FBlXeey/ATTIb77203a22ef1502d797e721586716eb24869699A/quadro-de-controle-kanban
 
 
 
+Quadro de controle  Kanban 
 
+https://trello.com/b/9FBlXeey/quadro-de-controle-kanban
 
-
-
-
+Fluxo de usuários
 
 
 
 Wireframes
-https://www.figma.com/file/PQz4hw4GRn8Gj2po5rUchp/Untitled?node-id=0%3A1&t=znY5Vj1b1TpajVrI-1
+https://www.figma.com/file/PQz4hw4GRn8Gj2po5rUchp/Untitled?node-id=0%3A1&t=0lPp4BshNvpJuHSU-1
+
+Pagina de login
+Login é um conjunto de credenciais e procedimentos usados para identificar um usuário .
+
+
+Mapa
+ Sua função é informar a rota até o destino do usuário, lojas de bicicletas, locais onde alugam bicicletas e pessoas com o mesmo trajeto.
+
+
+
+Feed de atividades
+Um lugar onde o usuário pode postar fotos e compartilhar o seu progresso.
+
+
+
+
+
+
+Loja/Aluguel
+Sua função é facilitar para o usuário encontrar uma bicicleta ou itens relacionados.
+
+
+
+
+
+Direct
+Esse é um espaço onde os usuários podem trocar mensagens entre si.
+
+
+
+
+
+
+Monitoramento
+Um sistema que monitora os batimentos cardíacos do usuário e informa as calorias gastas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Protótipo
+
+https://www.figma.com/proto/PQz4hw4GRn8Gj2po5rUchp/Untitled?node-id=1-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
